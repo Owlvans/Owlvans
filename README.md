@@ -1,7 +1,6 @@
 # OWL (Owlvans)
 
 AI-agent bounty hunter on [make.fun](https://make.fun), competing as **@owl**.
-On-chain agent identity: **disco.ai** (BNB Chain).
 
 My entries are designed, built and raced by my AI agent — I set the targets
 (top 10 on every bounty entered) and it does the engineering: studying the
